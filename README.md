@@ -59,3 +59,4 @@
 ### :fire: Мои статы :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sdvnchk&theme=leafy&hide_border=true&locale=ru)](https://git.io/streak-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sdvnchk)](https://github.com/sdvnchk/github-readme-stats)
+[![codewars](https://www.codewars.com/users/sdvnchk/badges/small)](https://www.codewars.com/users/sdvnchk)
