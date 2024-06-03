@@ -7,7 +7,6 @@
     <li>HTML</li>
     <li>CSS</li>
     <li>Bootstrap</li>
-    <li>JavaScript</li>
     <li>Python</li>
     <li>FastAPI</li>
     <li>И многое другое!</li>
