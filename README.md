@@ -16,7 +16,7 @@
   </ul>
   <h2>Контактная информация</h2>
   <p>Свяжитесь со мной, чтобы обсудить проекты, идеи или просто поболтать!</p>
-  <p>Почта: <a href="mailto:maxim.kuznetcov.work@gmail.com">praxergames@gmail.com</a></p>
+  <p>Почта: <a href="mailto:maxim.kuznetcov.work@gmail.com">maxim.kuznetcov.work@gmail.com</a></p>
   <h2>Благодарность</h2>
   <p>Благодарю вас за посещение моего профиля на GitHub. Давайте сотрудничать и создавать нечто удивительное вместе!</p>
 </div>
