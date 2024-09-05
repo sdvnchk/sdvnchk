@@ -11,7 +11,6 @@
     <li>Django</li>
     <li>FastAPI</li>
     <li>Javascript</li>
-    <li>React</li>
     <li>И многое другое!</li>
   </ul>
   <h2>Контактная информация</h2>
